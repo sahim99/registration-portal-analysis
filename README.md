@@ -1,4 +1,4 @@
-# Secure Registration Portal – Security Assessment
+# registration-portal-analysis
 
 > **Author:** Md Sahimuzzaman  
 > **Date:** February 2026
